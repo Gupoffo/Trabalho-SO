@@ -19,7 +19,7 @@ O **Jogo de Corrida Multithreaded** é uma simulação onde múltiplos corredore
 
 2. **Execução das Voltas**:
    - Cada corredor possui um tempo aleatório para completar cada volta (entre 1 e 3 segundos).
-   - Todos os corredores começam as voltas simultaneamente. O jogador precisa pressionar **ENTER** para iniciar cada volta.
+   - Todos os corredores começam as voltas simultaneamente.
    - Durante o jogo, uma **tabela de progresso** é exibida, mostrando o desempenho dos corredores ao longo de cada volta.
 
 3. **Final do Jogo**:
