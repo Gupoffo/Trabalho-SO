@@ -1,8 +1,8 @@
 # SSC0140 - Sistemas operacionais I
 ## Alunos
-Fellipe Tripovichy - 9850332
-Luan Benson Ribeiro - 13672085
-Gustavo de Araújo Poffo - 13672849
+- Fellipe Tripovichy - 9850332
+- Luan Benson Ribeiro - 13672085
+- Gustavo de Araújo Poffo - 13672849
 ---
 
 # Jogo de Corrida Multithreaded
