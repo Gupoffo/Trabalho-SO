@@ -1,40 +1,9 @@
 # Trabalho-SO
 
-UNIVERSIDADE DE SÃO PAULO
-Instituto de Ciências Matemáticas e de Computação
-Departamento de Sistemas de Computação
-SSC0641 - Redes de Computadores
+# Descrição do Jogo: Corrida Multithreaded
 
-
-Grupo:
-	Fellipe Tripovichy	Nº USP 5631500
-	Luan Benson Ribeiro	Nº USP 13672085
-	Gustavo de Araújo Poffo	Nº USP 13672849
-
-
-
-
-
-
-Laboratório 2
- packet tracer
-
-
-
-
-
-
-
-
-
-
-
-
-São Carlos
-2024
-
-Descrição do Jogo: Corrida Multithreaded
 Introdução:
+---
 O Jogo de Corrida Multithreaded é uma simulação onde múltiplos corredores competem em uma corrida de várias voltas, com tempos aleatórios. O objetivo do jogo é acompanhar o desempenho dos corredores e apostar no vencedor. O uso de threads permite que todos os corredores competam simultaneamente, enquanto a sincronização é realizada por meio de semaforos para garantir que todos comecem as voltas ao mesmo tempo. Ao final da corrida, o jogador pode verificar se acertou sua aposta.
 Como Funciona:
 Configuração Inicial:
